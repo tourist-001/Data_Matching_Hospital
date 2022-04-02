@@ -1,0 +1,315 @@
+,etat,indicatif_regional,ville
+0,AK,907,(entire state)
+1,AL,205,"Ashville, Bexar, Birmingham, Butler, Centreville, Clanton, Columbiana, Eutaw, Hamilton, Jasper, Lincoln, Oneonta, Pell City, Tuscaloosa; (659 overlay on 205 cancelled)"
+2,AL,251,"Atmore, Bay Minette, Beatrice, Brewton, Castleberry, Coffeeville, Evergreen, Finchburg, Gilbertown, Gosport, Grove Hill, Jackson, Melvin, Mobile, Monroeville, Peterman, Pine Apple, Tillmans Corner"
+3,AL,256,"Albertville, Alexander City, Anniston, Arab, Athens, Boaz, Cullman, Dadeville, Decatur, Florence, Ft. Payne, Gadsden, Guntersville, Huntsville, Piedmont, Rockford, Russellville, Sylacauga, Talladega, Wedowee"
+4,AL,334,"Andalusia, Auburn, Camden, Daleville, Demopolis, Dixons Mills, Dothan, Eclectic, Enterprise, Eufaula, Forest Home, Fort Deposit, Georgiana, Gordonsville, Greensboro, Greenville, Holtville, Kowaliga, Lafayette, Lanett, Linden, McKenzie, Maplesville, Marion, Montgomery, Nanafalia, Notasulga, Opelika, Opp, Phenix City, Pine Hill, Prattville, Red Level, Roanoke, Rock Mills, Selma, Shawmut, Sweet Water, Tallassee, Thomasville, Troy, Tuskegee, Valley, Vredenburgh, West Point, Wetumpka, Wing"
+5,AR,479,"Atkins, Aurora, Belleville, Bentonville, Bluffton, Boles, Centerville, Clarksville, Danville, Dover, Eureka Springs, Fayetteville, Ft. Smith, Forum, Hector, Hindsville, Huntsville, Kingston, Mena, Rogers, Russellville, St. Paul, Salus, Siloam Springs, Springdale, Van Buren"
+6,AR,501,"Bald Knob, Bauxite, Beebe, Benton, Bismarck, Bradford, Cabot, Casa, Cleveland, Clinton, Conway, Coy, Crystal Springs, Donaldson, England, Fairfield Bay, Ferndale, Greers Ferry, Griffithville, Heber Springs, Hot Springs, Jacksonville, Jessieville, Kensett, Little Rock, Lonoke, McRae, Malvern, Morrilton, Nimrod, Palarm, Pangburn, Perry, Pinnacle, Pleasant Plains, Redfield, Scotland, Searcy, Shirley, South Fourche, Springlake, Wrightsville"
+7,AR,870,"Arkadelphia, Ashdown, Augusta, Batesville, Berryville, Blytheville, Camden, De Queen, De Valls Bluff, Des Arc, Dumas, El Dorado, Forrest City, Helena, Hope, Jasper, Jonesboro, Magnolia, Marshall, Monticello, Mount Ida, Mountain View, Newport, Pine Bluff, Prescott, Sheridan, Stuttgart, Texarkana, Trumann, Warren, West Memphis, Wynne"
+8,AS,(684),"American Samoa (U.S. territory in the Pacific Ocean); previously dialed as country code +684, is now NANP area code +1 684 as of 2004-10-02."
+9,AZ,480,"Apache Jct., Carefree, Cave Creek, Chandler, Fountain Hills, Gilbert, Guadalupe, Higley, Mesa, Paradise Valley, Queen Creek, Salt River, Scottsdale, Sun Lakes, most of Tempe; east/northeast Phoenix area"
+10,AZ,520,"Ajo, Benson, Bisbee, Blackwater, Bowie, Casa Blanca, Casa Grande, Cascabel, Coolidge, Douglas, Elfrida, Eloy, Florence, Hayden, Kitt Peak, Komatke, Lone Butte, Maricopa, Maricopa Village, Nogales, Patagonia, Pearce, Portal, Sacaton, San Manuel, San Simon, Santa Rosa, Sasabe, Sells, Sierra Vista, Stotonic, Sunizona, Superior, Tombstone, Tucson, West San Simon, Whitlow, Willcox; Saguaro N.P., Organ Pipe Cactus N.M."
+11,AZ,602,central Phoenix (includes most of Phoenix and parts of some suburbs)
+12,AZ,623,"Avondale, Black Canyon City, Buckeye, Circle City, El Mirage, Glendale, New River, Peoria, Sun City, Sun City West, Surprise, Tolleson, Tonopah, Wintersburg; west/northwest Phoenix area"
+13,AZ,928,"Aguila, Alpine, Arizona Village, Ash Fork, Bagdad, Black Mesa, Blue Ridge, Bonita, Bouse, Bullhead City, Bullhead City North, Cameron, Camp Verde, Castle Rock, Chinle, Chino Valley, Cibola, Clifton, Coconino Plateau, Colorado City, Cottonwood, Dennehotso, Dilcon, Duncan, Eagar, East Kingman, Ehrenberg, Flagstaff, Ft. Apache, Ft. Defiance, Fredonia, Ganado, Gila Bend, Globe, Golden Valley, Grand Canyon, Greasewood, Green Haven, Greer, Harquahala Valley, Hawley Lake, Heber, Holbrook, Humboldt, Hyder, Joseph City, Kaibito, Kayenta, Keams Canyon, Kingman, Kykotsmovi Village, Lake Havasu City, Lake Mohave Ranchos, Lake Pleasant, Le Chee, Leupp, Littlefield, Lukachukai, Many Farms, Marble Canyon, McNary, Meadview, Mesquite Creek, Miami, Mohave Valley, Mormon Lake, Munds Park, Page, Parker, Parker Dam, Payson, Peach Springs, Pima, Pinedale, Pinetop, Pinon Cottonwood, Polacca, Poston, Prescott, Quartzsite, Red Valley, Rock Point, Roosevelt Lake, Rough Rock, Safford, Saint Johns, Salome, San Carlos, Sanders, Sedona, Seligman, Shonto, Show Low, Snowflake, Somerton, Springerville, Supai, Teec Nos Pos, Tonto Basin, Toyei, Tsaile, Tuba City, Wellton, Whiteriver, Wickenburg, Wide Ruins, Wikieup, Williams, Window Rock, Winslow, Yarnell, Yarnell, Young, Yucca, Yuma; Grand Canyon N.P., Petrified Forest N.P., Canyon de Chelly N.M."
+14,CA, ,"NOTE: area codes in California follow prefix boundaries, which do not exactly coincide with municipal or county boundaries. Thus, many cities and towns, especially in the urban areas, are divided between two or more area codes. Not all such cases are indicated below."
+15,CA,209,"Galt, Ione, Livingston, Lodi, Los Banos, Manteca, Merced, Modesto, Oakdale, Patterson, Ripon, Stockton, Tracy, Tuolomne Meadows, Turlock, Yosemite N.P."
+16,CA,213,"core of downtown Los Angeles business district, including Chinatown, Echo Park, Westlake, most of Koreatown"
+17,CA,310,"Agoura Hills, (part of) Beverly Hills, Brentwood, Culver City, (part of) Inglewood, LAX Airport, Lennox, Malibu, Marina Del Rey, Pacific Palisades, Playa Del Rey, Santa Monica, Topanga, UCLA (including UCLA Medical Center) , Venice, (part of) West Hollywood, West L.A., Westlake Village; southwestern L.A. County"
+18,CA,(424),"Avalon (Santa Catalina Island), Carson, Compton, Dominguez Hills, El Segundo, Gardena, Hawthorne, Hermosa Beach, Lomita, (a small part of) Long Beach, Lynwood, Manhattan Beach, Rancho Palos Verdes, Redondo Beach, San Pedro, Torrance; (As of 2003-10-16, the 310/424 split is once again on hold. However, it may be revived on short notice.)"
+19,CA,323,"""doughnut"" around the core of downtown Los Angeles, including Bell, Cudahy, Huntington Park, Hyde Park, Silver Lake, Vernon, Watts, most of Hollywood, Montebello, and South Gate, and parts of Alhambra, Beverly Hills, Commerce, Inglewood, Los Angeles, Monterey Park, Pasadena, West Hollywood, and other communities"
+20,CA,408,"Cupertino, Gilroy, Los Gatos, Milpitas, San José, Santa Clara, Saratoga, Sunnyvale"
+21,CA,415,"Brisbane, part of Daly City, Larkspur, Mill Valley, Novato, Point Reyes, San Francisco, San Rafael, Sausalito, almost all of Marin and San Francisco Counties plus a small part of northeast San Mateo County"
+22,CA,510,"Alameda, Berkeley, Castro Valley, Crockett, El Cerrito, El Sobrante, Fremont, Hayward, Newark, Oakland, Richmond, San Leandro, Union City; bayside East Bay"
+23,CA,530,"Auburn, Cameron Park, Chico, Corning, Davis, Grass Valley, Hoopa, Markleeville, Marysville, Orland, Oroville, Palermo, Paradise, Placerville, Red Bluff, Redding, South Lake Tahoe, Susanville, Thermalito, Truckee, Willow Creek, Willows, Woodland, Yreka, Yuba City"
+24,CA,559,"Avenal, Chowchilla, Clovis, Coalinga, Corcoran, Dinuba, Ducor, Exeter, Fresno, Hanford, Kerman, Kettleman City, Kingsburg, Lemoore, Lindsay, Madera, Mendota, Mono Hot Springs, Orange Cove, Orosi, Parlier, Porterville, Reedley, Selma, Tulare, Visalia, Woodlake, Woodville, Kings Canyon N.P., Sequoia N.P."
+25,CA,562,"Artesia, Bellflower, Cerritos, Downey, La Habra, La Mirada, Lakewood, (most of) Long Beach, Los Alamitos, Norwalk, Paramount, Pico Rivera, Rossmoor, Seal Beach, Signal Hill, Whittier"
+26,CA,619,"most of San Diego (Note: parts of San Diego are in 760 and 858); Alpine (San Diego County), Boulevard, Campo, Chula Vista, Coronado, Descanso, Dulzura, El Cajon, Imperial Beach, Jacumba, Jamul, Lakeside, (most of) Lemon Grove, (most of) National City, Pine Valley, San Ysidro, Santee, Spring Valley"
+27,CA,626,"Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Covina, El Monte, Glendora, La Puente, Monrovia, Monterey Park, Pasadena, Rosemead, San Gabriel, San Gabriel Valley"
+28,CA,650,"Belmont, Burlingame, Colma, (much of) Daly City, Los Altos, Menlo Park, Millbrae, Mountain View, Pacifica, Palo Alto, Redwood City, San Bruno, San Carlos, San Francisco Airport (SFO), San Mateo; ""The Peninsula"""
+29,CA,661,"Arvin, Bakersfield, California Hot Springs, Castaic, Cuyama, Delano, Earlimart, Frazier Park, Gorman, Lancaster, northern Los Angeles County, McFarland, McKittrick, Mojave, Newhall, Oildale, Palmdale, Rosamond, Santa Clarita, Shafter, Taft, Tehachapi, Valyermo, Wasco"
+30,CA,707,"Annapolis, Arcata, Asti, Benicia, Bodega Bay, Boyes Hot Springs, Calistoga, Clearlake, Cotati, Crescent City, Dixon, Eureka, Fairfield, Ferndale, Fort Bragg, Geyserville, Gualala, Guerneville, Healdsburg, Hopland, Lakeport, Middletown, Napa, Orick, Petaluma, Petrolia, Rohnert Park, St. Helena, Santa Rosa, Sonoma, Suisun City, Tomales, Ukiah, Vacaville, Vallejo, Willits, Yorkville, Yountville; ""The Wine Country"" and north coast"
+31,CA,714,"northern Orange County: Anaheim, Brea, Buena Park, (part of) Costa Mesa, Cypress, Fountain Valley, Fullerton, Huntington Beach, La Palma, Orange, Placentia, (most of) Santa Ana, Silverado, Stanton, Villa Park, Westminster, Yorba Linda"
+32,CA,760,"Adelanto, Apple Valley, Barstow, Bishop, Blythe, Borrego, Brawley, Bridgeport, Calexico, California City, Carlsbad, Cathedral City, China Lake, Coachella, El Centro, Encinitas, Escondido, Fairview, Fallbrook, Ft. Irwin, Hesperia, Indio, Inyokern, Julian, La Quinta, Lake Isabella, Lee Vining, Mammoth Lake, Mono Lake, Mt. Palomar, Needles, Oceanside, Onyx, Pala, Palm Springs, Pauma Valley, Pendleton, Phelan, Pinon Hills, Ramona, Ridgecrest, San Marcos, Twentynine Palms, Victorville, Valley Center, Vista, Warner Springs, Winterhaven, Wrightwood, Yucca Valley; Death Valley N.P., Joshua Tree N.P.; includes a small part of San Diego itself"
+33,CA,805,"Arroyo Grande, Atascadero, Bradley, Camarillo, Cambria, Cape San Martin, Cholame, Fillmore, Goleta, Grover Beach, Guadalupe, Lompoc, Los Osos, Moorpark, Morro Bay, Ojai, Oxnard, Paso Robles, Pismo Beach, Point Mugu, San Luis Obispo, San Simeon, Santa Barbara, Santa Maria, Simi Valley, Thousand Oaks, Ventura"
+34,CA,818,"Agoura, Arleta, Burbank, Calabasas, Canoga Park, Chatsworth, Encino, Glendale, Granada Hills, La Canada, La Crescenta, Mission Hills, Montrose, North Hollywood, Northridge, Pacoima, Reseda, San Fernando, Sepulveda, Sherman Oaks, Studio City, Sun Valley, Sylmar, Tarzana, Van Nuys, Woodland Hills, most of the San Fernando Valley (Plans for an 818/747 split have been formulated, but any action on those plans is suspended pending review.)"
+35,CA,831,"Aptos, Ben Lomond, Big Basin, Big Sur, Boulder Creek, Bryson, Carmel, Castroville, Greenfield, Hollister, King City, Marina, Monterey, Pebble Beach, Salinas, San Ardo, San Juan Bautista, Santa Cruz, Scotts Valley, Seaside, Soledad, Watsonville"
+36,CA,858,"Del Mar, La Jolla, Poway, Rancho Bernardo, Rancho Santa Fe, Solana Beach; near northern suburbs of San Diego (including a small part of San Diego itself)"
+37,CA,909,"Anza, Banning, Beaumont, Big Bear Lake, Calimesa, Canyon Lake, Chino, Chino Hills, Claremont, Colton, Corona, Crestline, Devore, Diamond Bar, Fontana, Hemet, Highland, Idyllwild, La Verne, Lake Elsinore, Lakeland Village, Mira Loma, Montclair, Moreno Valley, Murietta, Norco, Ontario, Perris, Pomona, Rancho Cucamonga, Redlands, Rialto, Riverside, Rowland Heights, San Bernardino, San Dimas, San Jacinto, Sun City, Temecula, Upland, Valle Vista, Walnut, Yucaipa; (The CPUC is considering a split of 909, roughly along the county line. San Bernardino would retain 909, while Riverside splits to 951. Details will be added as they are finalized.)"
+38,CA,916,"El Dorado Hills, Fair Oaks, Lincoln, Roseville, Sacramento, Walnut Grove, West Sacramento"
+39,CA,925,"Antioch, Concord, Danville, Livermore, Martinez, Moraga, Orinda, Pittsburg, Pleasanton, San Ramon, Walnut Creek; inland East Bay (Plans have been formulated for a geographic split of 925, with the southern portion, including Dublin, San Ramon, Livermore, and Pleasanton, changing to the as-yet-unannounced new code, but any such plans are suspended.)"
+40,CA,949,"southern Orange County: Aliso Viejo, Corona del Mar, (part of) Costa Mesa, El Toro, (most of) Irvine, Laguna Beach, Laguna Niguel, Mission Viejo, (most of) Newport Beach, Rancho Santa Margarita, San Clemente, San Juan Capistrano, (most of) Tustin"
+41,CA, ,"CANCELLED OVERLAYS: 310/424, 408/669, 415/628, 510/341, 650/764, 714/647, 909/752. The new codes may be resurrected for last-minute emergency splits.  SUSPENDED SPLITS: 310/424 (overlay converted to split but then suspended and then reinstated and now suspended again but may be reinstated), 619/935, 707/369/627, 760/442, 818/747, 909/951, and 925/t.b.a."
+42,CNMI,670,Commonwealth of the Northern Mariana Islands (entire territory)
+43,CO,303  720,"Arvada, Aurora, Boulder, Brighton, Broomfield, Castle Rock, Deer Trail, Denver, Englewood, Evergreen, Fort Lupton, Georgetown, Golden, Grant, Greeley, Kiowa, Lafayette, Lakewood, Larkspur, Littleton, Longmont, Nederland, Parker, Roggen, Westminster. (720 overlays 303.)"
+44,CO,719,"Agate, Alamosa, Bethune, Burlington, Canon City, Colorado Springs, Creede, Del Norte, Fairplay, Flagler, Florence, La Junta, Lamar, Leadville, Limon, Monte Vista, Pueblo, Salida, Trinidad, Walsenburg, Woodland Park"
+45,CO,970,"Aspen, Berthoud, Carbondale, Clifton, Cortez, Craig, Dillon, Durango, Estes Park, Fort Collins, Fort Morgan, Frisco, Grand Junction, Greeley, Gunnison, Lake City, Loveland, Montrose, Pagosa Springs, Rifle, Seibert, Silverton, Steamboat Springs, Sterling, Telluride, Vail, Vona, Wiggins, Winter Park, Yuma, Mesa Verde N.P., Rocky Mountain N.P."
+46,CT,203,"Bridgeport, Danbury, Greenwich, Meriden, New Haven, Norwalk, Stamford, Waterbury; (475 overlay on 203 postponed indefinitely)"
+47,CT,860,"Bristol, Groton, Hartford, Manchester, New Britain, New London, Norwich, Torrington, Vernon, Willimantic, Windsor; (959 overlay on 860 postponed indefinitely)"
+48,DC,202,"Washington, D.C."
+49,DE,302,(entire state)
+50,FL,239,"Bonita Springs, Cape Coral, Everglades, Flamingo, Fort Myers, Fort Myers Beach, Immokalee, Lehigh Acres, Marco Island, Monroe Station, Naples, North Cape Coral, North Fort Myers, North Naples, Pine Island, Sanibel/Captiva Islands; Collier, Lee, and (mainland portion of) Monroe Counties"
+51,FL,305  786,"Coral Gables, Hialeah, Homestead, Key Biscayne, Key Largo, Key West, Marathon, Miami, Perrine; (305/786 overlay)"
+52,FL,321,"Cape Canaveral, Cocoa Beach, Grant, Melbourne, Merritt Island, Palm Bay, Port St. John, Titusville; (This portion of 407 split to 321, but 321 also overlays the remainder of 407. Existing numbers in this part of 407changed to 321 .)"
+53,FL,352,"Beverly Hills, Bronson, Brooksville, Clermont, Cross City, Dade City, Eustis, Gainesville, Inverness, Keystone Heights, Lady Lake, Leesburg, Mount Dora, Ocala, Spring Hill, Tavares"
+54,FL,386,"western area: Alachua, Branford, Dowling Park, Florida Sheriffs Boys Ranch, Fort White, High Springs, Jasper, Jennings, Lake Butler, Lake City, Live Oak, Luraville, Mayo, Raiford, Wellborn, White Springs  southern area: Bostwick, Bunnell, Crescent City, Daytona Beach, De Leon Springs, DeBary, Deland, (part of) Deltona, Flagler Beach, Florahome, Interlachen, Marineland, New Smyrna Beach, Oak Hill, Orange City, Palatka, Palm Coast, Pierson, Pomona Park, Welaka; special note: the Osteen area of Deltona and the DeBary rate center changed from 407 to 386, thus uniting a town that was split by an area code boundary since 1965!"
+55,FL,407  321,"Altamonte Springs, Apopka, Geneva, Kenansville, Kissimmee, Orlando, Sanford, Winter Garden, Winter Park, Yeehaw Jct.; (321 overlays most of this portion of 407, but 321 is also be a geographic split of the remainder of 407. Existing numbers in this part of 407 remained in 407. HOWEVER, DeBary and Deltona changed to 386 in 2001. 689 was planned as an overlay of both 407/321 and 321, but was cancelled.)"
+56,FL,561,"Belle Glade, Boca Raton, Boynton Beach, Delray Beach, Jupiter, Lake Harbor, Pahokee, West Palm Beach; Palm Beach County and a small portion of Martin County"
+57,FL,727,"Aripeka, Clearwater, Dunedin, Hudson, Largo, New Port Richey, Palm Harbor, Pinellas Park, St. Petersburg, Tarpon Springs, Tierra Verde"
+58,FL,772,"Fort Pierce, Gifford, Hobe Sound, Indiantown, Jensen Beach, Port St. Lucie, Sebastian, Stuart, Vero Beach; Indian River and St. Lucie Counties and most of Martin County"
+59,FL,813,"Brandon, Land O' Lakes, Oldsmar, Plant City, Ruskin, Sun City, Tampa, Wesley Chapel, Wimauma, Zephyrhills"
+60,FL,850,"Crestview, De Funiak Springs, Ft. Walton Beach, Madison, Marianna, Milton, Panama City, Pensacola, Perry, Quincy, Tallahassee"
+61,FL,863,"Arcadia, Avon Park, Bartow, Clewiston, Frostproof, Haines City, La Belle, Lake Wales, Lakeland, Moore Haven, Okeechobee, Sebring, Wauchula, Winter Haven"
+62,FL,904,"Baldwin, Callahan, East Palatka, Fernandina Beach, Green Cove Springs, Hastings, Hilliard, Jacksonville, Jacksonville Beach, Julington, Kingsley Lake, Lawtey, Macclenny, Maxville, Middleburg, Olustee, Orange Mills, Orange Park, Ormond Beach, Palm Valley, Ponte Vedra Beach, Port Orange, St. Augustine, St. Johns, Sanderson, Starke, Taylor, Yulee"
+63,FL,941,"Boca Grande, Bradenton, Cape Haze, Englewood, Myakka, North Port, Palmetto, Port Charlotte, Punta Gorda, Sarasota, Venice; Charlotte, Manatee, and Sarasota Counties"
+64,FL,954  (754),"Coral Springs, Davie, Deerfield Beach, Ft. Lauderdale, Hollywood, Margate, Miramar, Oakland Park, Pompano Beach, Tamarac (754 will overlay 954)"
+65,GA,229,"Adel, Albany, Americus, Bainbridge, Blakely, Brooklyn, Cairo, Camilla, Chattahoochee, Cordele, Dawson (Terrell Co.), Fitzgerald, Georgetown, Moultrie, Quitman, Sylvester, Thomasville, Tifton, Valdosta"
+66,GA,404  678  470,"Atlanta, College Park, Decatur, East Point, Forest Park, Sandy Springs. (678 and 470 overlay both 404 and 770, although almost all 678 and 470 numbers are in the 770 area.)"
+67,GA,478,"Dublin, Eastman, Forsyth, Fort Valley, Hardwick, Macon, Milledgeville, Millen, Perry, Sandersville, Swainsboro, Warner Robbins, Wrightsville"
+68,GA,770  678  470,"Alpharetta, Barnesville, Canton, Carrollton, Cartersville, Cedartown, Chamblee, Covington, Dunwoody, Gainesville, Griffin, Jackson, Marietta, Monroe, Newnan, Norcross, Peachtree City, Roswell, Smyrna, Tucker, Winder; surrounds, but does not include, Atlanta. (678 and 470 overlay 404 and 770.)"
+69,GA,706,"northern/eastern area: Athens, Augusta, Big Canoe, Braselton, Calhoun, Carnesville, Cave Spring, Cleveland, Commerce, Cornelia, Dahlonega, Dalton, Dawsonton, Dawsonville (Dawson Co.), Eatonton, Elberton, Ellijay, Fairmount, Gibson, Hephzibah, Jasper, Jefferson, La Fayette, Madison, Martinez, Maysville, Monticello, Nicholson, Pendergrass, Ranger, Rome, Rutledge, Sparta, Summerville, Thomson, Toccoa, Watkinsville, Waynesboro, Wintersville, Wrens  southwestern area: Columbus, Cusseta, Franklin, Gay, Geneva, Greenville, Hamilton, Hogansville, La Grange, Manchester, North West Point, Pine Mountain, Talbotton, Thomaston, Warm Springs, Waverly Hall, West Point, Woodbury, Woodland  south central area: Yatesville  (706 consists of three discontiguous areas; 770/678/470 and 478 touch to the east and west of Yatesville)"
+70,GA,912,"Brunswick, Douglas, Hinesville, Jesup, St. Marys, Savannah, statesboro, Sylvania, Vidalia, Waycross"
+71,GU,671,Guam (entire territory)
+72,HI,808,(entire state)
+73,IA,319,"Allison, Anamosa, Aplington, Argyle, Belle Plaine, Birmingham, Brandon, Brighton, Burlington, Cantril, Cedar Falls, Cedar Rapids, Center Point, Central City, Clarksville, Clutier, Coggon, Conesville, Denver, Dike, Dunkerton, Elberon, Ely, Fairbank, Farmington, Fort Madison, Frederika, Grandview, Grundy Center, Guernsey, Hartwick, Hazleton, Independence, Iowa City, Jesup, Keokuk, Keosauqua, Keswick, Keystone, La Porte City, Lisbon, Lockridge, Lone Tree, Martelle, Mechanicsville, Monticello, Morley, Mt. Pleasant, Mt. Sterling, Mt. Vernon, Nichols, North English, Oelwein, Olin, Onslow, Packwood, Parkersburg, Plainfield, Prairieburg, Primrose, Quasqueton, Readlyn, Reinbeck, Richland, Rowley, Solon, South English, Springville, Stanwood, Stockport, Traer, Tripoli, Troy Mills, Urbana, Victor, Vinton, Walker, Washington, Waterloo, Waverly, Wellman, West Branch, West Chester, West Liberty, Winthrop"
+74,IA,515,"Adel, Alden, Algona, Altoona, Ames, Buckeye, Clarion, Colfax, Corwith, Dallas Center, De Soto, Des Moines, Dexter, Dows, Earlham, Elkhart, Ft. Dodge, Indianola, Jefferson, Lakota, McCallsburg, Maxwell, Minburn, Nevada, Norwalk, Perry, Pleasantville, Redfield, Rippey, Runnells, Stuart, Webster City, Winterset"
+75,IA,563,"Alpha, Arlington, Atalissa, Baldwin, Bernard, Bettendorf, Cascade, Center Junction, Clarence, Clinton, Cresco, Davenport, Decorah, Dubuque, Fredericksburg, Hawkeye, Hopkinton, Lamont, Lawler, Lime Springs, Manchester, Maqoketa, Maynard, Moscow, Muscatine, North Chester, Oran, Oxford Junction, Protivin, Quad cities, Randalia, Rochester, Ryan, Sumner, Tipton, Worthington, Wyoming"
+76,IA,641,"Adair, Bagley, Britt, Buffalo Center, Centerville, Charles City, Clear Lake, Colo, Corning, Creston, Fairfield, Forest City, Garner, Greenfield, Grinnell, Guthrie Center, Hubbard, Iowa Falls, Jamaica, Kanawha, Knoxville, Liberty Center, Linden, Lorimor, Macksburg, Marshalltown, Martensdale, Mason City, Menlo, Milo, Mingo, Monroe, New Hampton, Newton, Osceola, Oskaloosa, Otley, Ottumwa, Pella, Peru, Prairie City, Rowan, St. Charles, St. Marys, Truro, Yale, Zearing"
+77,IA,712,"Atlantic, Bedford, Carroll, Cherokee, Clarinda, Council Bluffs, Denison, Emmetsburg, Estherville, Glenwood, Harlan, Pocahontas, Red Oak, Rockwell City, Shenandoah, Sioux Center, Sioux City, Spencer, Storm Lake, western"
+78,ID,208,(entire state)
+79,IL,217,"Beardstown, Carlinville, Carrollton, Carthage, Champaign, Charleston, Clinton, Danville, Decatur, Effingham, Hoopeston, Jacksonville, Lincoln, Litchfield, Lomax, Mattoon, Pana, Paxton, Rantoul,Springfield"
+80,IL,309,"Bloomington, Canton, Farmer City, GeneSEO, Havana, Kewanee, Lacon, Moline, Monmouth, Normal, Pekin, Peoria, Quad cities, Rock Island"
+81,IL,312,Chicago (downtown area only -- see 773); (872 overlay on 312 and 773 has been postponed indefinitely)
+82,IL,618,"Alton, Belleview, Belleville, Benton, Carbondale, Carmi, Centralia, Chester, Collinsville, Du Quoin, East St. Louis, Fairfield, Granite City, Harrisburg, Highland, Jerseyville, Marlon, Metropolis, Mt. Carmel, Mt. Vernon, Newton, Robinson, Salem, Vandalia"
+83,IL,630,"Aurora, Bartlett, Batavia, Downers Grove, Elmhurst, Geneva, Glen Ellyn, Hinsdale, Itasca, Lemont, Lisle, Lombard, Naperville, Plano, Roselle, West Chicago, Yorkville; (331 overlay on 630 has been postponed indefinitely)"
+84,IL,708,"Blue Island, Chicago Heights, Cicero, La Grange, La Grange Park, Lansing, Maywood, Oak Lawn, Oak Park, Orland Park, Palos Park, River Grove, Riverdale, Summit, Tinley Park"
+85,IL,773,Chicago (outside downtown; includes O'Hare and Midway Airports) (872 overlay on 312 and 773 has been postponed indefinitely)
+86,IL,815,"Crystal Lake, De Kalb, Dixon, Freeport, Harvard, Joliet, Kankakee, Lockport, McHenry, Oglesby, Peru, Pontiac, Princeton, Rochelle, Rock Falls, Rockford, Sterling, Watseka, Woodstock"
+87,IL,847  224,"Arlington Heights, Barrington, Deerfield, Des Plaines, Dundee, Elgin, Elk Grove Village, Evanston, Highland Park, Lake Forest, Libertyville, Northbrook, Palatine, Roselle, Schaumburg, Skokie, Waukegan; (224 overlays 847)"
+88,IN,219,"Brook, Cedar Lake, Chesterton, Crown Point, Demotte, Dyer, East Chicago, Francesville, Gary, Goodland, Hammond, Hanna , Hebron, Highland, Hobart, Kentland, Kouts, La Crosse, La Porte , Lake of the Four Seasons, Lake Station, Lake Village, Lowell,Medaryville, Merrillville, Michigan City, Monon, Morocco, Mount Ayr, Portage, Remington, Rensselaer, Reynolds, Rolling Prairie , Roselawn, St. John, San Pierre, Union Mills , Valparaiso, Wanatah, Westville , Wheatfield, Wheeler, Whiting, Wolcott; towns listed in red were originally slated to change to 574, but the boundary was moved."
+89,IN,260,"Albion, Andrews, Angola, Arcola, Ashley, Auburn, Avilla, Berne, Bippus, Bluffton, Bryant, Butler, Churubusco, Columbia City, Corunna, Craigville, Cromwell , Decatur, Etna, Fort Wayne, Fremont, Garrett, Geneva (Adams Co.), Hamilton, Harlan, Howe, Huntertown, Huntington, Kendallville, Kimmell, Lagrange, Lagro, Larwill, Laud, Leo, Liberty Center, Ligonier , Linn Grove, Markle, Mongo, Monroe, Monroeville, New Haven, North Manchester, Orland, Ossian, Pennville, Petroleum, Pleasant Lake, Pleasant Mills, Poe Hoagland, Pokagon, Portland, Preble, Reservoir, Roanoke, Saint Joe, Salamonia, Shipshewana, Sidney, Silver Lake, South Milford, South Whitley, Spencerville, Tocsin, Topeka, Tri-Lakes area, Uniondale, Urbana, Wabash, Warren, Waterloo, Wawaka, West Wabash, Wolcottville, Woodburn, Zanesville; towns listed in red were originally slated to change to 574, but the boundary was moved."
+90,IN,317,"Brownsburg, Carmel, Fishers, Franklin, Greenfield, Greenwood, Indianapolis, Noblesville, Shelbyville, Sheridan"
+91,IN,574,"Akron, Argos, Atwood, Bourbon, Bremen, Bristol, Buffalo, Burket, Burnettsville, Burrows, Camden, Claypool, Culver, Deer Creek, Dunlap, Elkhart, Flora, Fulton, Galveston, Goshen, Hamlet, Idaville, Kewanna, Knox, Lapaz, Leesburg, Logansport, Lucerne, Macy, Mentone, Middlebury, Milford, Millersburg, Millwood, Monterey, Monticello, Nappanee, New Carlisle, New Paris, North Judson, North Liberty, North Webster, Osceola, Pierceton, Plymouth, Rochester, Royal Center, South Bend, Star City, Syracuse, Tippecanoe, Twelve Mile, Wakarusa, Walkerton, Walton, Warsaw, Winamac, Wyatt, Yeoman; The boundaries of the 219/574/260 split were adjusted after the original announcement. Towns listed in red under 219 or 260 above were previously slated to move to 574, but were changed to 260 or back to 219."
+92,IN,765,"Alexandria, Anderson, Brookville, Connersville, Crawfordsville, Delphi, Frankfort, Geneva (Shelby County), Greencastle, Hartford City, Kokomo, Lafayette, Lebanon, Marion, Martinsville, Mexico, Muncie, New Castle, Peru, Richmond, Roann, Rushville, Winchester"
+93,IN,812,"Bedford, Bloomington, Boonville, Brazil, Charlestown, Columbus, Edinburgh, Evansville, Greensburg, Jasper, Madison, Morgantown, Mt. Vernon, New Albany, Scottsburg, Sellersburg, Seymour, Tell City, Terre Haute, Vincennes, Washington"
+94,KS,316,"Andale, Andover, Augusta, Bentley, Benton, Cheney, Colwich, Derby, Douglass, El Dorado, Garden Plain, Goddard, Halstead, Kechi, Leon, Mount Hope, Mulvane, Newton, Rose Hill, Sedgwick, Towanda, Valley Center, Whitewater, Wichita"
+95,KS,620,"Albert, Allen, Americus, Arkansas City, Atlanta, Beaumont, Belle Plaine, Bronson, Burdett, Burlington, Burns, Burrton, Bushton, Canton, Cassoday, Cimarron, Claflin, Clearwater, Coffeyville, Colony, Conway, Conway Springs, Cottonwood Falls, Council Grove, Devon, Dighton, Dodge City, Dunlap, Durham, Emporia, Fort Scott, Fulton, Galatia, Galva, Garden City, Geneseo, Great Bend, Hanston, Haven, Healy, Hesston, Hillsboro, Hoisington, Hutchinson, Independence, Iola, Jetmore, Kincaid, Larned, Latham, Lebo, Lehigh, Leoti, Leroy, Liberal, Lincolnville, Little River, Lyons, McPherson, Mapleton, Marienthal, Marion, Milberger, Murdock, Neosho Falls, Norwich, Olmitz, Parsons, Peabody, Pittsburg, Potwin, Pretty Prairie, Reading, Riverdale, Rock, Rosalia, Rozel, Scott City, Tribune, Udall, Ulysses, Walton, Wellington, Windom, Winfield"
+96,KS,785,"Abilene, Colby, Ellsworth, Garnet, Hays, Junction City, La Crosse, Lawrence, Lyndon, Manhattan, Ness City, Oakley, Oskaloosa, Ottawa, Purcell, Russell, Salina, Sharon Springs, Topeka, Troy"
+97,KS,913,"Atchison, Bush City, Edgerton, Kansas City KS, Leavenworth, Lenexa, Mound City, Olathe, Osawatomie, Overland Park, Shawnee, Tonganoxie, Winchester"
+98,KY,270,"Bowling Green, Burkesville, Campbellsville, Elizabethtown, Franklin, Glasgow, Hopkinsville, Jamestown, Lebanon, Madisonville, Mayfield, Murray, Owensboro, Paducah, Princeton, Russellville"
+99,KY,502,"Bardstown, Fort Knox, Frankfort, Georgetown, Lawrenceburg, Louisville, Owenton"
+100,KY,606,"Albany, Ashland, Brooksville, Corbin, Flemingsburg, Hazard, Irvine, Liberty, London, McKee, Maysville, Middlesboro, Monticello, Morehead, Mt. Olivet, Mt. Vernon, Owingsville, Pikeville, Somerset, South Williamson, Stanford, Stanton, Williamsburg"
+101,KY,859,"Berea, Carlisle, Cincinnati Airport, Covington, Cynthiana, Danville, Falmouth, Harrodsburg, Lexington, Mt. Sterling, Paris, Richmond, Springfield, Versailles, Warsaw, Williamstown, Willisburg, Winchester"
+102,LA,225,"Albany, Baton Rouge, Donaldsonville, Gonzales, Greensburg, New Roads, Plaquemine, Vacherie"
+103,LA,318,"Alexandria, Bastrop, Bossier City, Bunkie, Calcasieu, Ferriday, Grambling, Haughton, Many, Marksville, Monroe, Natchitoches, Oakdale, Ruston, Shreveport, Tallulah, Winnfield, Winnsboro"
+104,LA,337,"Abbeville, Baldwin, Crowley, De Ridder, Eunice, Franklin, Jeanerette, Jennings, Kaplan, Lafayette, Lake Charles, Leesville, New Iberia, Opelousas, Sulphur, Ville Platte"
+105,LA,504,"Bertrandville, Chalmette, Delacroix, Ironton, Jesuit Bend, Kenner, Lafitte, Lake Catherine, Metairie, Myrtle Grove, New Orleans, St. Bernard, Yscloskey"
+106,LA,985,"north shore: Amite City, Angie, Bogalusa, Bush, Covington, Folsom, Franklinton, Hammond, Independence, Kentwood, Lacombe, Madisonville, Mandeville, Mount Hermon, Pearl River, Pine, Pontchatoula  west of New Orleans: Chackbay, Edgard, Galliano, Garyville, Gibson, Golden Meadow, Grand Isle, Houma, Labadieville, Laplace, Larose, Leeville, Lockport, Luling, Montegut, Morgan City, Napoleonville, Norco, Paradis, Patterson, Pierre Part, Raceland, Reserve, Thibodaux  Mississippi River Delta: Buras, Carlisle, Magnolia, Pointe à la Hache, Port Sulphur  (985 is contiguous, but only barely. The I-55 corridor through Laplace connects the north shore of Lake Pontchartrain and the area west of New Orleans; the Delta area is joined over water on Barataria Bay.)"
+107,MA,413,"Adams, Amherst, Greenfield, Holyoke, Northampton, Pittsfield, Springfield, Ware, Westfield"
+108,MA,508  774,"Attleboro, Brockton, Cape Cod, Fall River, Falmouth, Framingham, Hyannis, Marlborough, Martha's Vineyard, Nantucket, Natick, New Bedford, North Easton, Plymouth, Southbridge, Taunton, Walpole, Wayland, Worcester (774 overlays 508)"
+109,MA,617  857,"Belmont, Boston (including Brighton, Dorchester, Hyde Park, Jamaica Plain, and Roxbury), Brookline, Cambridge, Chelsea, Everett, Milton, Newton, Quincy, Somerville, Watertown, Winthrop; (857 overlays 617)"
+110,MA,781  339,"Arlington, Braintree, Burlington, Canton, Chelsea, Cohasset, Dedham, Duxbury, Kingston, Lexington, Lynn, Malden, Medford, Needham, Randolph, Reading, Revere, Rockland, Saugus, Stoughton, Wakefield, Waltham, Wellesley, Weymouth, suburbs on all sides of Boston. (339 overlays 781)"
+111,MA,978  351,"Andover, Athol, Barre, Beverly, Billerica, Chelmsford, Concord, Danvers, Fitchburg, Gloucester, Haverhill, Lawrence, Leominster, Lowell, Maynard, Methuen, New Salem, Peabody, Salem, Sudbury, Wilmington (351 overlays 978)"
+112,MD,301  240  (227?),"Aspen Hill, Bethesda, Bowie, Brunswick, College Park, Cumberland, Frederick, Gaithersburg, Golden Beach, Greenbelt, Hagerstown, Hyattsville, Laurel, Lexington Park, Montgomery Village, New Carrollton, Potomac, Rockville, St. Charles, St. Marys City, Silver Spring, Wheaton, suburbs of D.C.; (301/240 overlay,227 overlay postponed indefinitely )"
+113,MD,410  443  (667?),"Aberdeen, Annapolis, Baltimore, Berlin, Cambridge, Catonsville, Chestertown, Columbia, Crisfield, Dundalk, Easton, Edgewood, Essex, Glen Burnie, Havre de Grace, Joppatowne, Laurel, Perry Hall, Pocomoke City, Prince Frederick, Reisterstown, Salisbury, Solomons, Taneytown, Towson, Westminster; (410/443 overlay, 667 overlay postponed indefinitely )"
+114,ME,207,(entire state)
+115,MI,231,"Acme, Amble, Big Rapids, Cadillac, Casnovia, Cheboygan, Coral, Fruitport, Grant, Howard City, Ludington, Mackinaw City, Manistee, Muskegon, Newaygo, Petoskey, Ravenna, Traverse City"
+116,MI,248  (947?),"Birmingham, Farmington Hills, Ferndale, Holly, Leonard, (part of) Livonia, Novi, Pontiac, Rochester, Southfield, Troy, Waterford, West Bloomfield, Whitmore Lake; Oakland County; (947 may overlay 248; overlay plan reinstated by MPSC, but now indefinitely postponed again)"
+117,MI,269,"Allegan, Athens, Augusta, Banfield, Bangor, Baroda, Battle Creek, Bellevue, Benton Harbor, Berrien Springs, Bloomingdale, Bridgman, Buchanan, Burr Oak, Cassopolis, Centreville, Climax, Coloma, Colon, Constantine, Covert, Decatur, Delton, Dowagiac, Eau Claire, Edwardsburg, Fennville, Fulton, Galesburg, Galien, Ganges, Glenn, Gobles, Grand Junction, Hamilton, Hartford, Hastings, Hickory Corners, Hopkins, Kalamazoo, Lacey, Lacota, Lawrence, Lawton, Marcellus, Marshall, Martin, Mattawan, Mendon, Middleville, New Buffalo, Niles, Olivet, Otsego, Paw Paw, Pine Lake, Plainwell, Pullman, Richland, St Joseph, Saugatuck, Sawyer, Schoolcraft, Scotts, Sister Lakes, South Haven, Sturgis, Three Oaks, Three Rivers, Union, Vandalia, Vicksburg, Watervliet, Wayland, White Pigeon, Woodland"
+118,MI,313  (679?),"Dearborn, Detroit, Grosse Pointe, Wayne; special note: Livonia numbers moved to 248, with new 7-digit numbers; (679 may overlay 313; postponed indefinitely)"
+119,MI,517,"Adrian, Albion, Burlington, Charlotte, Coldwater, Corunna, Hillsdale, Howell, Jackson, Lansing, Owosso, St. Johns, Tecumseh"
+120,MI,586,"Armada, Center Line, Eastpointe, Mt. Clemens, New Baltimore, New Haven, Richmond, Romeo, Roseville, Utica, Warren, Washington; Macomb County"
+121,MI,616,"Ada, Allendale, Alto, Belding, Borculo, Byron Center, Caledonia, Casnovia, Cedar Springs, Clarksville, Conklin, Coopersville, Dorr, Drenthe, Dutton, Freeport, Grand Haven, Grand Rapids, Grattan, Greenville, Holland, Hudsonville, Ionia, Jamestown, Kent City, Lake Odessa, Lowell, Marne, Moline, Orleans, Rockford, Sand Lake (Kent Co.), Saranac, Sparta, Trufant, Wyoming, Zeeland"
+122,MI,734,"Ann Arbor, (part of) Livonia, Monroe, Ypsilanti, Detroit Metro Airport (DTW); (278 may overlay 734; postponed indefinitely)"
+123,MI,810,"Algonac, Almont, Avoca, Brighton, Brown City, Byron, Capac, Clio, Columbiaville, Croswell, Davison, Deckerville, Dryden, Emmett, Fenton, Flint, Flushing, Goodells, Goodrich, Grand Blanc, Hadley, Hartland, Imlay City, Jeddo, Lapeer, Lennon, Lexington, Linden, Marine City, Memphis, Metamora, Montrose, Mt. Clemens, Mt. Morris, New Lothrop, North Branch, Otisville, Port Huron, Port Sanilac, Rankin, Roseville, St. Clair, Sandusky, Smiths Creek, Snover, Swartz Creek, Yale"
+124,MI,906,"Iron Mtn., Isle Royale, Marquette, Menominee, Sault Ste. Marie; upper peninsula"
+125,MI,989,"Alma, Alpena, Atlanta, Bad Axe, Bay City, Caro, Gaylord, Ithaca, Midland, Mt. Pleasant, Rogers City, Roscommon, Saginaw, Stanton"
+126,MN,218,"Bemidji, Brainerd, Duluth, East Grand Forks, Elbow Lake, Moorhead"
+127,MN,320,"Alexandria, Little Falls, St. Cloud, Wheaton"
+128,MN,507,"Canby, Fairmont, Faribault, Gaylord, Kellogg, Luverne, Mankato, New Ulm, Northfield, Redwood Falls, Rochester, Winona"
+129,MN,612,"Ft. Snelling, Lauderdale, Minneapolis, Richfield, St. Anthony, M/SP Airport, no other towns"
+130,MN,651,"Arden Hills, Castle Rock, Columbus, Eagan, Falcon Heights, Farmington, Harris, Lake City, Lino Lakes, Mendota, New Brighton, Red Wing, Rosemount, Roseville, St. Paul, Shoreview, Stark, Vermillion, Wabasha"
+131,MN,763,"Anoka, Blaine, Brooklyn Center, Brookylyn Park, Buffalo, Cambridge, Champlin, Circle Pines, Columbia Heights, Coon Rapids, Elk River, Fridley, Golden Valley, Ham Lake, Lexington, Maple Grove, Medina, Mounds View, New Hope, Plymouth, Princeton, Robbinsdale; northwestern suburbs of Minneapolis"
+132,MN,952,"Apple Valley, Belle Plaine, Bloomington, Burnsville, Chaska, Eden Prairie, Edina, Hopkins, Lakeville, Minnetonka, New Germany, New Prague, Norwood, St. Louis Park, Savage, Shakopee, Young America; southwestern suburbs of Minneapolis"
+133,MO,314,"Bridgeton, Creve Coeur, FergUSOn, Florissant, Hazelwood, Kirkwood, Ladue, Mehlville, Oakville, Overland, Riverview, St. Louis, Sappington, Spanish Lake, Webster Green (557 overlay on 314 cancelled)"
+134,MO,417,"Alton, Branson, Hermitage, Houston, Joplin, Lebanon, Neosho, Nevada, Springfield, West Plains"
+135,MO,573,"Cape Girardeau, Columbia, Fredericktown, Jefferson City, New Madrid, Poplar Bluff, Rolla, Sikeston"
+136,MO,636,"Ballwin, Chesterfield, Crystal City, De Soto, Fenton, Festus, Foley, Herculaneum, High Hill, Hillsboro, Holstein, Imperial, Jonesburg, Manchester, Maxville, O'Fallon, Portage des Sioux, St. Charles, Troy, Truxton, Union, Valley Park, Warrenton, Washington, West Alton, Winfield"
+137,MO,660,"Alexandria, Booneville, Butler, Clinton, Kahoka, Kirksville, Marshall, Maryville, Moberly, Oregon, Paris, Sedalia, Warsaw"
+138,MO,816,"Blue Springs, Harrisonville, Independence, Kansas City MO, Richmond, St. Joseph, Warrensburg; (975 overlay on 816 cancelled)"
+139,MP,670,Commonwealth of the Northern Mariana Islands (entire territory)
+140,MS,228,"Bay St. Louis, Biloxi, Gulfport, Hurley, Moss Point, Ocean Springs, Pascagoula, Pass Christian, Pearlington, extreme southern tip of MS"
+141,MS,601,"Brookhaven, Carthage, Hattiesburg, Jackson, Laurel, Lucedale, McComb, McNeill, Meridian, Natchez, Picayune, Vicksburg, Wiggins"
+142,MS,662,"Columbus, Corinth, Greenville, Greenwood, Grenada, Oxford, Tupelo, Yazoo City"
+143,MT,406,(entire state)
+144,NC,252,"Cape Hatteras, Elizabeth City, Greenville, Henderson, Kill Devil Hills, Kinston, Morehead City, New Bern, Rocky Mount, Washington, Wilson"
+145,NC,336,"Asheboro, Burlington, Greensboro, High Point, Jefferson, Lexington, Mt. Airy, Roxboro, Wilkesboro, Winston-Salem, Yanceyville"
+146,NC,704  980,"Albemarle, Charlotte, Concord, Gastonia, Kannapolis, Lincolnton, Monroe, Shelby, statesville, Wadesboro; (980 overlays 704)"
+147,NC,828,"Asheville, Boone, Brevard, Forest City, Granite Falls, Hendersonville, Hickory, Lenoir, Morganton, Newton"
+148,NC,910,"Dunn, Fayetteville, Jacksonville, Laurinburg, Lumberton, Rockingham, Wilmington"
+149,NC,919,"Chapel Hill, Durham, Goldsboro, Raleigh, Sanford, Smithfield; (984 overlay on 919 cancelled)"
+150,ND,701,(entire state)
+151,NE,308,"Central City, Grand Island, Kearney, Merriman, North Platte, Scottsbluff"
+152,NE,402,"Columbus, Hastings, Lincoln, Omaha, South Sioux City, Valentine"
+153,NH,603,(entire state)
+154,NJ,201  551,"Bayonne, Cliffside Park, Englewood, Fair Lawn, Hackensack, Hoboken, Jersey City, Leonia, Little Ferry, Lyndhurst, Paramus, Park Ridge, Ramsey, Rutherford, Union City; (551 overlays 201)"
+155,NJ,609,"Atlantic City, Barnegat, Browns Mills, (part of) Buena Vista, Burlington, Cape May, Cranbury, Hightstown, Lambertville, Lawrenceville, (most of) Medford, Pennington, Princeton, Trenton, Willingboro, (part of) Winslow"
+156,NJ,732  848,"Asbury Park, Bound Brook, Crestwood Village, Freehold, Holmdel, Keyport, Lakewood, Long Branch, Metuchen, Monmouth Jct., New Brunswick, Perth Amboy, Point Pleasant, Rahway, Red Bank, South River, Toms River, Woodbridge; (848 overlays 732)"
+157,NJ,856,"Bridgeton, (part of) Buena Vista, Camden, Cherry Hill, Dennis, Glassboro, Haddonfield, (most of) Maurice River, (part of) Medford, Monroe, Vineland, (most of) Waterford, (part of) Winslow"
+158,NJ,908,"Bedminster, Bernardsville, Clinton, Cranford, Elizabeth, Hackettstown, Linden, Plainfield, Somerville, Summit, Union, Washington, Westfield"
+159,NJ,973  862,"Belleville, Bloomfield, Boonton, Butler, Caldwell, Dover, Hawthorne, Livingston, Madison, Millburn, Morristown, Newark, Newton, Nutley, Orange, Passaic, Paterson, Succasunna, Verona, Wayne, Whippany; (862 overlays 973; originally announced as 356 to overlay 973, but changed by request of the NJ-BPU )"
+160,NM,505,(entire state) (505/575 split cancelled)
+161,NV,702,"Boulder City, Cal-Nev-Ari, Henderson, Indian Springs AFB, Las Vegas, Laughlin, Mesquite, Moapa, North Las Vegas; almost all of Clark County"
+162,NV,775,"Alamo, Battle Mountain, Carson City, Devil's Hole, Elko, Ely, Hawthorne, Mercury, Pahrump, Reno, Sparks, Spring Creek, Tonopah, Winnemucca; everything outside of Clark County"
+163,NY,212  646,New York City (Manhattan only) (212/646 overlay)
+164,NY,315,"Auburn, Geneva, Little Falls, Ontario, Oswego, Penn Yan, Potsdam, Rome, Romulus, Syracuse, Utica, Watertown"
+165,NY,516,"Long Island (Nassau County): Albertson, Baldwin, Bayville, Bethpage, Elmont, Farmingdale, Floral Park, Franklin Square, Garden City, Great Neck, Hempstead, Hicksville, Jericho, Levittown, Locust Grove, Long Beach, Lynbrook, Manhasset, Massapequa, Mineola, Oceanside, Oyster Bay, Plainview, Port Washington, Roslyn, Sea Cliff, Syosset, Uniondale, Valley Stream, Westbury, Williston Park, Woodbury; exactly covers Nassau County"
+166,NY,518,"Albany, Colonie, Glens Falls, Gloversville, Schenectady, Troy"
+167,NY,585,"Albion, Batavia, Belmont, Brighton, Canandaigua, Dansville, Gates, Geneseo, Greece, Hall, Irondequoit, Medina, Rochester, Warsaw, Webster, Wellsville, Wyoming; all or most of Allegany, Genesee, Livingston, Monroe, Ontario, Orleans, and Wyoming Counties, plus parts of Steuben and Yates Counties"
+168,NY,607,"Binghamton, Corning, Cortland, Elmira, Hornell, Ithaca, Oneonta, Roscoe"
+169,NY,631,"Long Island (Suffolk County): Amityville, Bay Shore, Brentwood, Brookhaven, Centereach, Cold Spring Harbor, Commack, Deer Park, Fishers Island, The Hamptons, Hauppauge, Holbrook, Huntington Station, Islip, Lindenhurst, Montauk, Oakdale, Patchogue, Port Jefferson, Riverhead, Rocky Point, Sayville, Smithtown, Stony Brook, West Babylon; exactly covers Suffolk County"
+170,NY,716,"Buffalo, Dunkirk, Fredonia, Jamestown, Lancaster, Lockport, Niagara Falls, Olean, Salamanca, Tonawanda; exactly coterminous with Cattaraugus, Chautauqua, Erie, and Niagara Counties, plus the Tonawanda and Oil Springs Indian Reservations."
+171,NY,718  347,"New York City (Bronx, Brooklyn, Queens, Staten Island).incl. Far Rockaway, Flushing, Jamaica, Long Island City. (718/347 overlay)"
+172,NY,845,"Brewster, Callicoon, Carmel, Dunraven, Kingston, Middletown, Monticello, Nanuet, New City, Newburgh, Nyack, Pearl River, Poughkeepsie, Saugerties, Tappan, West Point"
+173,NY,914,"Bedford, Chappaqua, Croton Falls, Dobbs Ferry, Harrison, Larchmont, Mamaroneck, Mt. Vernon, New Rochelle, Peekskill, Purchase, Rye, Scarsdale, Tarrytown, Tuckahoe, White Plains, Yonkers; exactly covers Westchester County"
+174,NY,917,"New York City (all 5 boroughs, overlay originally for cellular, pagers, voice mail; now has some regular numbers; overlays both 212/646 and 718/347 areas)"
+175,OH,216,"Beachwood, Cleveland, Euclid, Independence, Lakewood, Shaker Heights"
+176,OH,330  234,"Akron, Aurora, Brunswick, Canton, East Liverpool, Kent, Medina, Millersburg, New Philadelphia, Northfield, Warren, Wooster, Youngstown; (234 overlays 330)"
+177,OH,419  567,"Bowling Green, Defiance, Findlay, Holland, Lima, Mansfield, Maumee, Sandusky, Sylvania, Toledo; (567 overlays 419)"
+178,OH,440,"Ashtabula, Bedford, Berea, Chagrin Falls, Elyria, Lorain, Mayfield Hts., Mentor, North Olmsted, (most of) Parma, Strongsville, Vermilion"
+179,OH,513,"Cherry Grove, Cincinnati, Fairhaven, Fayetteville, Glendale, Groesbeck, Hamilton, Loveland, Madison Place, Mason, Middletown, Montgomery, Northside, Norwood, Oxford, Price Hill, Rossmoyne, Utopia; (283 overlay on 513 cancelled) (NOTE: Franklin moved from 513 to 937, including the cities of Franklin and Springboro, the Village of Carlisle, and the townships of Clearcreek and Franklin on 2001-05-01)"
+180,OH,614,"Canal Winchester, Columbus, Gahanna, Grove City, Harrisburg, Hilliard, Jersey, Lockbourne, New Albany, Plain City, Reynoldsburg, West Jefferson, Westerville, Worthington; (380 overlay on 614 cancelled)"
+181,OH,740,"Ashville, Athens, Bainbridge, Baltimore, Carroll, Chillicothe, Condit, Delaware, Jelloway, Johnstown, Knockemstiff, Lancaster, London, Marietta, Marion, Mt. Sterling, Mt. Vernon, Nevada, Newark, Pleasant View, Portsmouth, Rathbone, St. Clairsville, Steubenville, Sunbury, Uhrichsville, Washington Court House, Zanesville"
+182,OH,937,"Bardwell, Beavercreek, Bellefontaine, Blanchester, Camden, Centerville, Dayton, Fairborn, Greenfield, Higginsport, Hillsboro, Miamisburg, Springfield, Wilmington, Xenia; (Franklin will move from 513 to 937 on 2001-05-01; see note under 513 above)"
+183,OK,405,"Anadarko, Bethany, Bridgeport, Chickasha, Colony, Edmond, Guthrie, Hennessey, Holdenville, Midwest City, Moore, Norman, Oklahoma City, Pauls Valley, Shawnee, Stillwater, Weleetka, Yale"
+184,OK,580,"Ada, Altus, Apache, Ardmore, Clinton, Duncan, Durant, Enid, Guymon, Hugo, Idabel, Konawa, Lawton, Ponca City, Rush Springs, Weatherford"
+185,OK,918,"Bartlesville, Broken Arrow, McAlester, Muskogee, Tahlequah, Tulsa"
+186,OR,503  971,"503/971 overlay: Beaverton, Dallas, Gresham, Hillsboro, Lake Oswego, Milwaukie, Neskowin, Oregon City, Portland, Salem, Tigard, Tualatin  503 only: Astoria, Bay City, Beaver, Cannon Beach, Cloverdale, Garibaldi, Jewell, Knappa, Nehalem, Pacific City, Rockaway, Seaside, Tillamook, Warrenton"
+187,OR,541,"Albany, Ashland, Bend, Coos Bay, Corvallis, Crater Lake, Eugene, Florence, Grants Pass, Hermiston, Klamath Falls, La Grande, Lebanon, Lincoln City, Medford, Newport, Ontario, Pendleton, Roseburg, Springfield, The Dalles, Wolf Creek"
+188,PA,215  267,"Ambler, Bristol, Churchville, Doylestown, Hatboro, Kulpsville, Langhorne, New Hope, Philadelphia, Quakertown, Warrington, Willow Grove; (215/267 overlay, 445 additional overlay code suspended )"
+189,PA,412  878,"Bethel Park, Carnegie, Coraopolis, Monroeville, Pittsburgh, Wilkinsburg; (878 overlays 412 and 724)"
+190,PA,570,"Bloomsburg, Hazleton, Lewisburg, Lock Haven, Milton, Muncy, Pittston, Pottsville, Scranton, Selinsburg, Stroudburg, Sunbury, Wilkes-Barre, Williamsport"
+191,PA,610  484,"Allentown, Ardmore, Bala Cynwyd, Bethlehem, Bryn Mawr, Chester, Collegeville, Conshohocken, Easton, King of Prussia, Norristown, Paoli, Reading, Wayne, West Chester; (610/484 overlay, 835 additional overlay code suspended )"
+192,PA,717,"Camp Hill, Carlisle, Chambersburg, Gettysburg, Harrisburg, Lancaster, Lebanon, Lewistown, Mechanicsburg, Shippensburg, York"
+193,PA,724  878,"Aliquippa, Butler, Connellsville, Greenville, Indiana, Kittanning, Latrobe, New Castle, Rochester, Sharon, Uniontown, Washington; surrounds but does not include Pittsburgh ; (878 overlays 412 and 724)"
+194,PA,814,"Altoona, Bedford, Bellefonte, Clarion, Clearfield, Erie, Huntingdon, Johnstown, Meadville, Oil City, Punxsutawney, state College, Warren"
+195,PA,878,(878 overlays 412 and 724)
+196,PR,787  939,Puerto Rico (entire territory); (939 overlays 787)
+197,RI,401,(entire state)
+198,RI,401,(entire state)
+199,SC,803,"Aiken, Atkins, Batesburg, Branchville, Camden, Chester, Columbia, Edgefield, Estill, Hampton, Holly Hill, Kershaw, Lancaster, Lexington, Lynchburg, Manning, Newberry, North Augusta, Orangeburg, Rock Hill, Sumter, Whitmire, York, central area"
+200,SC,843,"BeaUFOrt, Bethune, Charleston, Chesterfield, Conway, Darlington, Florence, Georgetown, Harleysville, Hartsville, Hilton Head Island, Lodge, Mt. Pleasant, Myrtle Beach, Olanta, Ridgeland, St. George, Summerville, Turbeville, Walterboro, coastal areas"
+201,SC,864,"Anderson, Clemson, Gaffney, Greenville, Greenwood, Greer, Laurens, Saluda, Seneca, Spartanburg, Union, northwestern area"
+202,SD,605,(entire state)
+203,TN,423,"Athens, Blountville, Bluff City, Bristol, Bulls Gap, Charleston, Chattanooga, Cleveland, Clinchport, Coker Creek, Cumberland Gap, Dayton, Deer Lodge, Englewood, Etowah, Fork Ridge, Greeneville, Huntsville, Jellico, Johnson City, Kingsport, La Follette, Madisonville, Midway, Morristown, New Tazewell, Newport, Niota, Oakdale, Oneida, Petros, Pikeville, Riceville, Robbins, Rogersville, Sneedville, Soddy Daisy, Sunbright, Surgoinsville, Sweetwater, Tellico Plains, Vonore, Wartburg, West Sweetwater"
+204,TN,615,"Carthage, Dickson, Gallatin, Franklin, Lafayette, Lebanon, Murfreesboro, Nashville, Portland, Red Boiling Springs, Smithville, Springfield"
+205,TN,731,"Bolivar, Brownsville, Dyersburg, Henning, Humboldt, Jackson, Lexington, McKenzie, Martin, Milan, Paris, Ripley, Savannah, Stanton, Union City, Whiteville; Counties: Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, Lauderdale, McNairy, Madison, Obion, Weakley"
+206,TN,865,"Ball Play, Bean Station, Bent Creek, Chestnut Hill, Claxton, Clinton, Concord, Dandridge, Gatlinburg, Greenback, Halls Cross Roads, Harriman, Jefferson City, Kingston, Knoxville, Lake City, Lenoir City, Loudon, Maryville, Mascot, Maynardville, Norris, Oak Ridge, Oliver Springs, Powell, Rockwood, Rutledge, Sevierville, Sharps Chapel, Solway, Tate Springs, Washburn, White Pine, Great Smoky Mountains N.P."
+207,TN,901,"Covington, Memphis, Somerville, West Whiteville; Counties: Shelby, Tipton, and Fayette"
+208,TN,931,"Celina, Clarksville, Columbia, Cookeville, Crossville, Land Between the Lakes, McEwen, McMinnville, Manchester, Shelbyville, Sparta"
+209,TX,210,"Alamo Heights, Elmendorf, Lackland AFB, Leon Springs, San Antonio, Shavano Park, Universal City, Wetmore"
+210,TX,214  972  469,"Addison, Allen, Carrollton, Celina, Dallas, Duncanville, Ennis, Farmers Branch, Frisco, Garland, Grand Prairie, Irving, Italy, Kaufman, Lavon, Lewisville, McKinney, Mesquite, Midlothian, Plano, Renner, Richardson, Seagoville, Terrell, Waxahatchie.  (The 214/972 boundary has been officially erased. Central Dallas and part of Grand Prairie are mostly 214; all other areas are mostly 972. However, some new 214 prefixes have been assigned back in the suburbs. 469 overlays 214 and 972.)"
+211,TX,254,"Breckenridge, Cameron, Cross Plains, Florence, Glen Rose, Hamilton, Hillsboro, Killeen, Marlin, Mexia, Sidney, Stephenville, Temple, Waco"
+212,TX,281,(see 713/281/832)
+213,TX,325,"Abilene, Albany, Baird, Bend, Big Lake, Big Valley, Brady, Brownwood, Coleman, Colorado City, Comanche, Goldthwaite, Junction, Llano, Mason, Ozona, Putnam, San Angelo, San Saba, Snyder, Stamford, Sterling City, Sweetwater"
+214,TX,361,"Alice, Beeville, Charco, Corpus Christi, Cuero, EDNA, Flatonia, Goliad, Hebbronville, Kingsville, Palacios, Port Aransas, Victoria, Waelder, Yoakum, Yorktown"
+215,TX,409,"Anahuac, Beaumont, Bronson, China, Colmesneil, Double Bayou, Galveston, Hankamer, Hemphill, Hitchcock, Jasper, Kountze, La Marque, Lumberton, Milam, Nederland, Nome, Pineland, Port Arthur, Port Neches, Santa Fe, Sour Lake, Texas City, Wallisville, Warren, Westbury, Wildwood, Woodville"
+216,TX,430,(see 903/430)
+217,TX,432,"Ackerly, Alpine, Andrews, Big Bend N.P., Big Spring, Comstock, East Hobbs, Ft. Davis, Ft. Stockton, Garden City, Iraan, Kermit, Langtry, Marfa, Midland, Monahans, Odessa, Orla, Pecos, Presidio, Rankin, Sanderson, Seminole, Sheffield, Terlingua, Toyah, Valentine, Van Horn"
+218,TX,469,(see 214/972/469 above)
+219,TX,512,"Austin, Bastrop, Georgetown, Jollyville, Lampasas, Lockhart, Manchaca, Pflugerville, Rockdale, Round Rock, San Marcos, Smithville, Webberville; (The 737 concentrated overlay plan has been indefinitely postponed by the PUCT.)"
+220,TX,682,(see 817/682)
+221,TX,713  281  832,"Officially, all the cities shown here are in the combined 281/713/832 overlay. However, in practice, the central area is mostly 713, with new numbers in 832, and the outer area is mostly 281, with new numbers in 832.  mostly 281: Aldine, Alief, Alvin, Bammel, Barker, Baytown, Channelview, Cleveland, (part of) Houston, Humble, Katy, Kemah, League City, Richmond, Rosenberg, Spring, Sugar Land, Tomball  mostly 713: Bellaire, (most of) Houston, Pasadena, Southside Place, West University Place"
+222,TX,806,"Amarillo, Borger, Bovina, Dalhart, Denver City, Guthrie, Hereford, Jayton, Lamesa, Lubbock, Memphis, Paducah, Pampa, Plainview, Post"
+223,TX,817  682,"Arlington, Cleburne, Euless, Fort Worth, Granbury, Grapevine, North Richland Hills, Rhome, Roanoke, Saginaw, Weatherford; (682 overlays 817)"
+224,TX,830,"Boerne, Carrizo Springs, Del Rio, Eagle Pass, Floresville, Fredericksburg, Gonzales, Kenedy, Kerrville, Luling, Marble Falls, New Braunfels, Seguin, Somerset; surrounds, but does not include, San Antonio"
+225,TX,832,(see 713/281/832)
+226,TX,903  (430),"Athens, Carthage, Centerville, Corsicana, Denison, Greenville, Henderson, Jacksonville, Kilgore, Longview, Marshall, Mt. Pleasant, Palestine, Paris, Rusk, Sherman, Texarkana, Tyler ; (430 will overlay 903)"
+227,TX,915,"El Paso, Fabens, Guadalupe Mountains N.P., Milehigh, Sierra Blanca"
+228,TX,936,"Alto, Anderson, Austonio, Batson, Broaddus, Center, Chester, Coldspring, Conroe, Corrigan, Crockett, Cushing, Cut and Shoot, Dayton, Devers, Etoile, Evergreen, Garrison, Goodrich, Grapeland, Hardin, Hilltop Lakes, Hull, Huntsville, Iola, Joaquin, Liberty, Livingston, Lufkin, Madisonville, Montgomery, Nacogdoches, Navasota, Normangee, North Zulch, Onalaska, Plantersville, Prairie View, Raywood, Reklaw, Ruby, San Augustine, Saratoga, Segno, Shepherd, Shiro, Tenaha, Timpson, Waller, Washington, Willis, Zavalla"
+229,TX,940,"Aspermont, Benjamin, Childress, Crowell, Decatur, Denton, Gainesville, Graham, Haskell, Mineral Wells, Wichita Falls"
+230,TX,956,"Alamo, Brownsville, Donna, Edcouch, Edinburg, El Sauz, Elsa, Encinal, Falcon, Falcon Heights, Harlingen, La Feria, La Grulla, La Joya, Laredo, Lopeno, Los Fresnos, McAllen, Mercedes, Mission, Pharr, Port Isael, Raymondville, Rio Grande City, Rio Hondo, Roma, San Benito, San Isidro, San Juan, San Ygnacio, South Padre Island, Sullivan City, Weslaco, Zapata"
+231,TX,972,(see 214/972/469 above)
+232,TX,979,"Angleton, Bay City, Beasley, Bellville, Borden, Brazoria, Brenham, Bryan/College Station, Caldwell, Calvert, Clute, Damon, Deanville, Dime Box, Eagle Lake, East Bernard, El Campo, Franklin, Freeport, Garwood, Giddings, Hearne, Hempstead, High Hill, Kurten, La Grange, Lake Jackson, Lexington, Louise, Markham, Matagorda, Moravia, Needville, New Ulm, Northrup, Plum, Schulenburg, Sealy, Snook, Tunis, Wallis, Weimar, West Columbia, Wharton"
+233,UT,435,"Brigham City, Cedar City, Heber City, Helper, Logan, Moab, Nephi, Park City, Price, St. George, Tooele, Vernal.  435 surrounds the urban areas of 801/385 (Salt Lake City, Ogden, Provo) on all sides, and covers about 90% of the land area of Utah."
+234,UT,801,"Alta, Holladay, Kearns, Magna, Midvale, Murray, Salt Lake City"
+235,UT,(385),"northern section: Bountiful, Clearfield, Farmington, Kaysville, Morgan, Ogden ;  southern section: American Fork, Goshen, Lehi, Orem, Payson, Pleasant Grove, Provo, Spanish Fork, Spanish Fork Canyon, Springville;  385 brackets, but does not include, Salt Lake City; (801/385 split postponed to 2005, and may be postponed farther.)"
+236,VI,340,U.S. Virgin Islands (entire territory)
+237,VA,276,"Abingdon, Austinville, Axton, Bassett, Bland, Bluefield, Boissevain, Bristol, Collinsville, Galax, Hillsville, Laurel Fork, Marion, Martinsville, Max Meadows, Meadows of Dan, Ridgeway, Rocky Gap, Stuart, Sylvatus, Woolwine, Wytheville"
+238,VA,434,"Alberta, Allwood, Alta Vista, Amherst, Appomattox, Arvonia, Bachelors Hall, Barnesville, Beechwood, Big Island, Blackridge, Blackstone, Boydton, Brodnax, Brookneal, Buckingham, Burkeville, Capron, Charlotte Court House, Charlottesville, Chase City, Chatham, Clarksville, Clover, Concord, Crewe, Crozet, Danville, Dillwyn, Drakes Branch, Emporia, Eppes Fork, Farmville, Fork Union, Gladstone, Gladys, Gretna, Halifax, Hampden-Sydney, Hurt, Jarratt, Kenbridge, Keysville, La Crosse, Lawrenceville, Lovingston, Lynchburg, Oronoco, Palmyra, Pamplin, Piney River, Prospect, Renan, Rustburg, Sandy Level, Schuyler, Scottsville, South Boston, South Brunswick, Stanardsville, Stony Creek, Sweet Briar, Turbeville, Victoria, Virgilina, Volens, Whitmell"
+239,VA,540,"Brokenburg, Calverton, Catoctin, Craigsville, Criglersville, Culpeper, Dahlgren, Elkton, Fredericksburg, Front Royal, Gordonsville, Greenwood, Grottoes, Harrisonburg, Hot Springs, King George, Louisa, McClung, Madison, Middleburg, Mineral, Mount Gilead, Mountain Grove, New Hope, Raphine, Shenandoah, Spotsylvania, Stafford, Stanley, Staunton, The Plains, Warrenton, Waynesboro, Weyers Cave, Williamsville, Winchester"
+240,VA,(tba),"Bedford, Blacksburg, Brownsburg, Buchanan, Buena Vista, Burnt Chimney, Christiansburg, Clifton Forge, Covington, Dublin, Ferrum, Floyd, Glasgow, Lexington, Locust Grove, Narrows, Pulaski, Radford, Roanoke, Rocky Mount, Salem, Stone Mountain, Union Hall, Willis; (future split, dates t.b.d.; these cities remained in 540 in the 540/276 split)"
+241,VA,703  571,"Alexandria, Arlington , Centreville, Engleside, Fairfax, Falls Church, Herndon, Leesburg, Lorton, McLean, Manassas, Occoquan, Vienna; (571 overlays 703)"
+242,VA,757,"Chesapeake, Chincoteague, Courtland, Great Bridge, Hampton, Newport News, Norfolk , Portsmouth , Suffolk, Virginia Beach , Williamsburg/Jamestown"
+243,VA,804,"Amelia Court House, Ashland, Beaverdam, Bethia, Bowling Green, Callao, Cartersville, Charles City, Chester, Colonial Beach, Cumberland, Dawn, Deltaville, Dinwiddie, Disputanta, Doswell, Enon, Farnham, Fife, Gloucester, Goochland, Gum Tree, Hague, Hanover, Hayes, Heathsville, Hopewell, Irvington, Kilmarnock, King and Queen, King William, Lively, McKenney, Manakin, Mathews, Mechanicsville, Midlothian, Montpelier, Montross, Old Church, Petersburg , Port Royal, Powhatan, Providence Forge, Reedville, Richmond , Rockville, Sandston, Tappahannock, Varina, Warsaw, Waverly, West Point"
+244,VT,802,(entire state)
+245,WA,206,"Bainbridge Isl., Mercer Isl., Newhalem, Sea-Tac Airport, Seattle , Vashon Isl.; (564 overlay of 206, 253, 360, and 425 suspended)"
+246,WA,253,"Auburn, Federal Way, Gig Harbor, Kent, Puyallup, Tacoma ; (564 overlay of 206, 253, 360, and 425 suspended)"
+247,WA,360,"Aberdeen, Bellingham , Bremerton, Camas, Friday Harbor, Lacey, Langley, Longview, Marysville, Mount Vernon, Olympia , Orchards, Port Angeles, Port Townsend, Poulsbo, Shelton, Silverdale, Vancouver , Olympic NP, Mt. Rainier; (564 overlay of 206, 253, 360, and 425 suspended)"
+248,WA,425,"Bellevue , Bothell, Everett , Issaquah, Kirkland, Lynnwood, Redmond, Renton, Silver Lake, Snoqualmie Pass; (564 overlay of 206, 253, 360, and 425 suspended)"
+249,WA,509,"Easton, Ellensburg, Kennewick, Pasco, Pullman, Richland, Spokane , Stevenson, Walla Walla, Wenatchee, Winthrop, Yakima"
+250,WA,(564),"(564 overlay of 206, 253, 360, and 425 suspended) (564 was originally announced as an overlay only on 360.)"
+251,WI,262,"Brookfield, Burlington, Delavan, Elm Grove, Hartland, Kenosha, Lake Geneva, Menomonee Falls, New Berlin, Racine, Thiensville, Waukesha, West Bend, Whitewater"
+252,WI,414,"Brown Deer, Fox Point, Franklin, Glendale, Greenfield, Milwaukee, Muskego, Oak Creek, Shorewood, Wauwatosa, West Allis, Whitefish Bay"
+253,WI,608,"Alma, Beloit, Janesville, La Crosse, Madison, Middleton, Monroe, Montello, Platteville, Portage, Richland Center, Tomah, Westfield"
+254,WI,715,"Black River Falls, Clintonville, Coloma, Eau Claire, Elk Mound, Marinette, Rhinelander, Schofield, Stevens Point, Superior, Wausau, Wisconsin Rapids"
+255,WI,920,"Appleton, Berlin, Cedar Grove, Columbus, De Pere, Fond du Lac, Fort Atkinson, Green Bay, Jefferson, Manitowoc, Neenah, New London, Oconto, Oneida, Oshkosh, Princeton, Sheboygan, Sturgeon Bay, Watertown"
+256,WV,304,(entire state)
+257,WY,307,(entire state) 
+258,州名(缩写),首府,主要城市
+259,Alabama (AL)  阿拉巴马州,Montgomery  蒙哥马利, 
+260,Alaska (AK)  阿拉斯加州,Juneau  朱诺, 
+261,Arizona (AZ)  亚利桑那州,Phoenix  凤凰城, 
+262,Arkansas (AR)  阿肯色州,Little Rock 小岩城, 
+263,California (CA)  加利福尼亚州,Sacramento  萨克拉曼多,"San Francisco 旧金山, Los Angeles 洛杉矶, San Diego 圣地牙哥, Long Beach"
+264,Colorado (CO)  科罗拉多州,Denver 丹佛, 
+265,Connecticut (CT)  康乃狄克州,Hartford 哈特佛特, 
+266,特拉华州（德国）  德拉瓦州,Dover 多佛, 
+267,Florida (FL)  佛罗里达州,Tallahasse 塔拉哈希,Miami 迈阿密
+268,Georgia (GA)  乔治亚州,Atlanta  亚特兰大, 
+269,Hawaii (HI)  夏威夷州,Honolulu 檀香山, 
+270,Idaho (ID)  爱达荷州,Boise 波易士, 
+271,Illinois (IL)  伊利诺州,斯普林菲尔 德哈鲁塔,Chicago 芝加哥
+272,Indiana (IN)  印第安那州,Indianapolis  印地安纳波里, 
+273,Iowa (IA)  爱荷华州,Des Moines 第蒙, 
+274,Kansas (KS)  堪萨斯州,Topeka 托派卡, 
+275,Kentucky (KY)  肯塔基州,Frankfort  法兰克福, 
+276,Louisiana (LA)  路易斯安那州,Baton Rouge  巴顿鲁治,New Orleans 纽奥尔良
+277,Maine (ME)  缅因州,Augusta  奥古斯塔, 
+278,Maryland (MD)  马里兰州,Annapolis  亚纳波里, 
+279,Massachusetts (MA)  麻萨诸塞州,Boston  波士顿,Portsmouth 朴兹茅斯
+280,Michigan (MI)  密西根州,Lansing  兰辛,Detroit 底特律
+281,Minnesota (MN)  明尼苏达州,Saint Paul  圣保罗, 
+282,Mississippi (MS)  密西西比州,Jackson  杰克逊, 
+283,Missouri (MO)  米苏里州,Jefferson City  杰佛逊市, 
+284,Montana (MT)  蒙大拿州,Helena 赫勒那, 
+285,Nebraska (NE)  内布拉斯加州,Lincoln 林肯市, 
+286,Nevada (NV)  内华达州,Carson City  卡逊市,Reno 雷诺
+287,New Hampshire (NH)  新罕布夏州,Concord 康柯德, 
+288,"New Jersey (NJ)  新泽西州,纽泽西州",Trenton  特里顿, 
+289,New Mexico (NM)  新墨西哥州,Santa Fe  圣大菲, 
+290,New York (NY)  纽约州,Albany  阿尔班尼,"Buffalo 水牛城, Rochester 罗彻斯特"
+291,North Carolina (NC)  北卡罗来纳州,Raleigh 洛利, 
+292,North Dakota (ND)  北达科他州,Bismarck  俾士麦, 
+293,Ohio (OH)  俄亥俄州,Columbus  哥伦布市,"Cincinnati 辛辛那提, Cleveland 克里夫兰"
+294,Oklahoma (OK)  奥克拉荷马州,Oklahoma City  奥克拉荷马市, 
+295,Oregon (OR)  俄勒冈州,Salem  赛伦,Portland 波特兰
+296,Pennsylvania (PA)  宾夕凡尼亚州,Harrisburg 哈立斯堡,"Philadelphia 费城, Pitsburgh 匹兹堡, Baltimore 巴尔迪摩"
+297,Rhode Island (RI)  罗德岛州,Providence  普洛维顿市, 
+298,South Carolina (SC)  南卡罗来纳州,Columbia  哥伦比亚市, 
+299,South Dakota (SD)  南达可他州,Pierre  皮尔, 
+300,Tennessee (TN)  田纳西州,Nashville  那须维尔, 
+301,Texas (TX)  德克萨斯州,Austin  奥斯丁,"Dallas 达拉斯, Houston 休斯顿, San Antonio 圣安东尼, El Paso"
+302,Utah (UT)  犹他州,Salt Lake City  盐湖城, 
+303,Vermont (VT)  佛蒙特州,Montpelier  蒙特派利尔, 
+304,Virginia (VA)  维吉尼亚州,Ricmond 里其蒙, 
+305,华盛顿（华盛顿州）  Huacheng Tazzhou,Olympia  奥林匹亚,Seattle 西雅图
+306,West Virginia (WV)  西维吉尼亚州,Charleston  查理斯顿, 
+307,Wisconsin (WI)  威斯康辛州,Madison  麦迪逊, 
+308,Wyoming (WY)  怀俄明州,Cheyenne 夏恩, 
+309,州名(缩写),首府, 
+310,District of Columbia (DC) 哥伦比亚特区,Washington  华盛顿, 
+311,Guam (GM)  关岛,Agana  阿加纳, 
+312,Puerto Rico (PR)  波多黎各,San Juan  圣胡安, 
+313,Virgin Island (VI)  美属维京岛,Charlotte Amalie 夏洛特阿马利, 
